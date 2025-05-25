@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+torch
+pillow
+python-multipart
+aiofiles
+python-dotenv
+numpy
+opencv-python
+matplotlib
